@@ -1,0 +1,4 @@
+1. Creating a folder and a file
+2. Staging files
+3. Commiting the folder to github
+4. Pushing the folder to git-hub
