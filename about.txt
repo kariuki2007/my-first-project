@@ -1,0 +1,3 @@
+1. Learning about git and github
+2. Learning the basics and commands of git
+3. Learning how to push projects into git-hub
